@@ -19,10 +19,10 @@ _TCT5683 - Fuel Manifold Turnover Stand_
 
 
 
-<iframe src="/assets/pdfs/Engineering Drawings/TCT5690.pdf" width="100%" height="600px" frameborder="0"></iframe>
+<object data="/assets/pdfs/Engineering Drawings/TCT5690.pdf" width="100%" type="application/pdf"></object>
 _TCT5690 - F11 Gearbox Immobilizer_
 
 
 
-<iframe src="/assets/pdfs/Engineering Drawings/TCT691.pdf" width="100%" height="600px" frameborder="0"></iframe>
+<embed src="/assets/pdfs/Engineering Drawings/TCT5691.pdf" type="application/pdf">
 _TCT5691 - F12 Gearbox Immobilizer_
