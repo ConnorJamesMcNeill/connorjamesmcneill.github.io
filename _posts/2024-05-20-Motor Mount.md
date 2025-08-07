@@ -5,14 +5,14 @@ catagories: [EV Underground]
 tags: [solid_mechanics, thermal_analysis, mechatronics, systems_integration, project_management, sustainable_engineering, manufacturing_processes, material_science, failure_analysis, automotive_engineering, electronics_integration, problem-solving]        #Lower Case
 
 image:
-  path: /assets/img/EVU/Motor Mount/1.jpg
+  path: /assets/img/EVU/Motor Mount/1.png
   alt: 
 ---
 
 
 ### 
 
-![Picture2](/assets/img/EVU/Motor Mount/2.jpg){: width="100%" }
+![Picture2](/assets/img/EVU/Motor Mount/2.png){: width="100%" }
 
 ### 
 
@@ -20,11 +20,11 @@ image:
 
 <br>
 
-![Picture3](/assets/img/EVU/Motor Mount/3.jpg){: width="100%" }
+![Picture3](/assets/img/EVU/Motor Mount/3.png){: width="100%" }
 
 <br>
 
-![Picture4](/assets/img/EVU/Motor Mount/4.jpg){: width="100%" }
+![Picture4](/assets/img/EVU/Motor Mount/4.png){: width="100%" }
 
 <br>
 
