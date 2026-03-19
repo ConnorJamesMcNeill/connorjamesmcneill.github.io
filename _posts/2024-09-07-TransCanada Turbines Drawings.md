@@ -5,7 +5,7 @@ catagories: [Drawings]
 tags: [mechanical_design, cad_modeling, finite_element_analysis, rapid_prototyping, 3d_printing, product_development, solid_mechanics, thermal_analysis, technical_drawings, automation, mechatronics, systems_integration, project_management, manufacturing_processes, material_science, design_optimization, failure_analysis, energy_systems, research_and_development, engineering_software, innovation, problem-solving, engineering_simulations]   #Lower Case
 
 image:
-  path: /assets/img/TCT/Cover.jpg
+  path: /assets/img/Work Experience/TCT/Cover.jpg
   alt: 
 ---
 
@@ -76,7 +76,7 @@ _TCT5715 - [REDACTED]_
 
 <br>
 
-![TCT5715](/assets/img/TCT/TCT5715.jpg){: width="100%" }
+![TCT5715](/assets/img/Work Experience/TCT/TCT5715.jpg){: width="100%" }
 _Item 6 - Rotary Table_
 
 <br>
@@ -134,12 +134,12 @@ _TCT5744 - LM2500 Sweeny Anti-tourque Plate & LPC Housing Lifter_
 
 <br>
 
-![TCT5744](/assets/img/TCT/TCT5744.jpg){: width="100%" }
+![TCT5744](/assets/img/Work Experience/TCT/TCT5744.jpg){: width="100%" }
 _The Final Product_
 
 <br>
 
-![TCT5744-1](/assets/img/TCT/TCT5744-1.jpg){: width="100%" }
+![TCT5744-1](/assets/img/Work Experience/TCT/TCT5744-1.jpg){: width="100%" }
 _Time for a test fit!_
 
 <br>

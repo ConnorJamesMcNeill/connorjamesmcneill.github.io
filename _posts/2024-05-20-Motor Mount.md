@@ -5,7 +5,7 @@ catagories: [EV Underground]
 tags: [solid_mechanics, thermal_analysis, mechatronics, systems_integration, project_management, sustainable_engineering, manufacturing_processes, material_science, failure_analysis, automotive_engineering, electronics_integration, problem-solving]        #Lower Case
 
 image:
-  path: /assets/img/EVU/Motor Mount/1.png
+  path: /assets/img/Work Experience/EVU/Motor Mount/1.png
   alt: 
 ---
 
@@ -14,15 +14,15 @@ image:
 
 #### In the first few photos you can see the mount in-situe using a 3D scan of the "Tesla Small Rear Drive Unit" and engine compartment from the 356, as well as a combination of other custom and off the shelf components using Fusion 360.
 
-![Picture2](/assets/img/EVU/Motor Mount/2.png){: width="100%" }
+![Picture2](/assets/img/Work Experience/EVU/Motor Mount/2.png){: width="100%" }
 
 <br>
 
-![Picture3](/assets/img/EVU/Motor Mount/3.png){: width="100%" }
+![Picture3](/assets/img/Work Experience/EVU/Motor Mount/3.png){: width="100%" }
 
 <br>
 
-![Picture4](/assets/img/EVU/Motor Mount/4.png){: width="100%" }
+![Picture4](/assets/img/Work Experience/EVU/Motor Mount/4.png){: width="100%" }
 
 <br>
 
@@ -30,43 +30,43 @@ image:
 
 #### This allowed us to order all the components from Send-Cut-Send and a local vendor, and complete final fabrication in house and at a low cost.
 
-![Picture5](/assets/img/EVU/Motor Mount/5.jpg){: width="100%" }
+![Picture5](/assets/img/Work Experience/EVU/Motor Mount/5.jpg){: width="100%" }
 
 <br>
 
 #### I was quite impressed with the fitment of my tab and slot design on this part of the project, it made for easy assembly and fabrication. Please see "Chassis Bracket Design & Simulation" for more details on this component.
 
-![Picture6](/assets/img/EVU/Motor Mount/6.jpg){: width="100%" }
+![Picture6](/assets/img/Work Experience/EVU/Motor Mount/6.jpg){: width="100%" }
 
 <br>
 
-![Picture7](/assets/img/EVU/Motor Mount/7.jpg){: width="100%" }
+![Picture7](/assets/img/Work Experience/EVU/Motor Mount/7.jpg){: width="100%" }
 
 <br>
 
-![Picture8](/assets/img/EVU/Motor Mount/8.jpg){: width="100%" }
+![Picture8](/assets/img/Work Experience/EVU/Motor Mount/8.jpg){: width="100%" }
 
 <br>
 
-![Picture9](/assets/img/EVU/Motor Mount/9.jpg){: width="100%" }
+![Picture9](/assets/img/Work Experience/EVU/Motor Mount/9.jpg){: width="100%" }
 
 <br>
 
 #### Once everything is all tac'd up, the mount can be removed from the car and final welding completed!
 
-![Picture10](/assets/img/EVU/Motor Mount/10.jpg){: width="100%" }
+![Picture10](/assets/img/Work Experience/EVU/Motor Mount/10.jpg){: width="100%" }
 
 <br>
 
-![Picture10](/assets/img/EVU/Motor Mount/11.jpg){: width="100%" }
+![Picture10](/assets/img/Work Experience/EVU/Motor Mount/11.jpg){: width="100%" }
 
 <br>
 
-![Picture10](/assets/img/EVU/Motor Mount/12.jpg){: width="100%" }
+![Picture10](/assets/img/Work Experience/EVU/Motor Mount/12.jpg){: width="100%" }
 
 <br>
 
-![Picture10](/assets/img/EVU/Motor Mount/13.jpg){: width="100%" }
+![Picture10](/assets/img/Work Experience/EVU/Motor Mount/13.jpg){: width="100%" }
 
 <br>
 
