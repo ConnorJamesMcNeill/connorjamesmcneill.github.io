@@ -1,73 +1,80 @@
 ---
 title: EV Porsche 356 | Tesla Drive Unit Mount
 date: 2024-05-20 12:00:00 -0700
-catagories: [EV Underground]
-tags: [solid_mechanics, thermal_analysis, mechatronics, systems_integration, project_management, sustainable_engineering, manufacturing_processes, material_science, failure_analysis, automotive_engineering, electronics_integration, problem-solving]        #Lower Case
+categories: [Work Experience, EV Underground Inc.]
+tags: [solid_mechanics, systems_integration, manufacturing_processes, material_science, automotive_engineering, problem-solving]
 
 image:
   path: /assets/img/Work Experience/EVU/Motor Mount/1.png
-  alt: 
+  alt: Dimensioned Fusion 360 sketch of the Tesla Small Rear Drive Unit used as design reference
 ---
 
+### The core challenge of fitting a Tesla Small Rear Drive Unit into a Porsche 356 is that nothing lines up. The 356 was designed around a flat-four that sat low and behind the rear axle, and the Tesla unit is a completely different shape, size, and mounting geometry. The solution was a custom cradle structure that could bridge the two, locate the drive unit correctly relative to the axles, and transfer its loads into the original chassis pickup points without modifying the body.
 
-## Below is a small collection of photos/screenshots I collected throughout my time at EV Underground, and in this post in particular, showing off the design and fabrication process of the custom drive unit mount for a Porsche 356 EV conversion. 
+### The design process started with 3D scans of both the Tesla drive unit and the 356 engine compartment, which were brought into Fusion 360 as reference geometry. The mount is built from 1-1/2" x 0.120" wall 1026 DOM tubing, CNC bent, combined with water jet and bent 11ga A1008 steel for the chassis brackets. For a one-off conversion, keeping the custom part count manageable and the fabrication processes simple matters. All flat components were ordered through Send-Cut-Send and a local vendor, with final fitment and welding done in house. The tab and slot geometry on the chassis bracket made assembly straightforward and held everything in position while tacking.
 
-#### In the first few photos you can see the mount in-situe using a 3D scan of the "Tesla Small Rear Drive Unit" and engine compartment from the 356, as well as a combination of other custom and off the shelf components using Fusion 360.
+### By the time I left EV Underground the structural design was complete and the mount was fitted to the car. There was still integration work ahead, but the drive unit was located, the chassis brackets were in, and the tube frame was sitting where it needed to be.
 
-![Picture2](/assets/img/Work Experience/EVU/Motor Mount/2.png){: width="100%" }
+#### The tube frame structure modeled in Fusion 360. 1026 DOM tube CNC bent into the D-shaped cradle with flat plate mounting tabs at each end.
 
-<br>
-
-![Picture3](/assets/img/Work Experience/EVU/Motor Mount/3.png){: width="100%" }
-
-<br>
-
-![Picture4](/assets/img/Work Experience/EVU/Motor Mount/4.png){: width="100%" }
+![Fusion 360 render of tube frame cradle structure alone](/assets/img/Work Experience/EVU/Motor Mount/2.png){: width="100%" }
 
 <br>
 
-#### A key component of low volume production, such as in the case of one-off EV conversions, is managing costs. An effective way to do so is to design with manufacturing and fabrication simplicity in mind. This entire design is comprised of 1-1/2" x 0.120" Wall 1026 DOM Tubing, CNC Bent, and water jet and bent 11ga A1008 steel.
+#### The mount modeled with the Tesla Small Rear Drive Unit and battery pack in place, showing how the components package together.
 
-#### This allowed us to order all the components from Send-Cut-Send and a local vendor, and complete final fabrication in house and at a low cost.
-
-![Picture5](/assets/img/Work Experience/EVU/Motor Mount/5.png){: width="100%" }
+![Fusion 360 assembly render with Tesla drive unit and battery in mount](/assets/img/Work Experience/EVU/Motor Mount/3.png){: width="100%" }
 
 <br>
 
-#### I was quite impressed with the fitment of my tab and slot design on this part of the project, it made for easy assembly and fabrication. Please see "Chassis Bracket Design & Simulation" for more details on this component.
+#### Wider assembly view in context with the surrounding drivetrain and chassis structure.
 
-![Picture6](/assets/img/Work Experience/EVU/Motor Mount/6.jpg){: width="100%" }
-
-<br>
-
-![Picture7](/assets/img/Work Experience/EVU/Motor Mount/7.jpg){: width="100%" }
+![Fusion 360 wider assembly view with full drivetrain context](/assets/img/Work Experience/EVU/Motor Mount/4.png){: width="100%" }
 
 <br>
 
-![Picture8](/assets/img/Work Experience/EVU/Motor Mount/8.jpg){: width="100%" }
+#### In-situ view overlaid on the 3D scan of the 356 engine bay. Designing against a scan rather than nominal drawings is the only reliable way to account for the dimensional reality of a 60-year-old body.
+
+![Fusion 360 in-situ view with 3D scan point cloud of 356 engine bay](/assets/img/Work Experience/EVU/Motor Mount/5.png){: width="100%" }
 
 <br>
 
-![Picture9](/assets/img/Work Experience/EVU/Motor Mount/9.jpg){: width="100%" }
+#### Chassis bracket assembled with magnets ahead of tacking. The tab and slot geometry self-locates the pieces and holds them square without fixturing.
+
+![Chassis bracket assembled with welding magnets on workbench, side view](/assets/img/Work Experience/EVU/Motor Mount/6.jpg){: width="100%" }
 
 <br>
 
-#### Once everything is all tac'd up, the mount can be removed from the car and final welding completed!
+#### Chassis bracket from above. The fitment came back from the vendor exactly as designed.
 
-![Picture10](/assets/img/Work Experience/EVU/Motor Mount/10.jpg){: width="100%" }
-
-<br>
-
-![Picture10](/assets/img/Work Experience/EVU/Motor Mount/11.jpg){: width="100%" }
+![Chassis bracket from above showing completed tab and slot assembly](/assets/img/Work Experience/EVU/Motor Mount/7.jpg){: width="100%" }
 
 <br>
 
-![Picture10](/assets/img/Work Experience/EVU/Motor Mount/12.jpg){: width="100%" }
+#### Full mount assembly with the Tesla drive unit sitting in it on the shop floor. First time the two came together outside of CAD.
+
+![Full tube frame mount with Tesla drive unit sitting in it on a pallet](/assets/img/Work Experience/EVU/Motor Mount/8.jpg){: width="100%" }
 
 <br>
 
-![Picture10](/assets/img/Work Experience/EVU/Motor Mount/13.jpg){: width="100%" }
+#### Chassis bracket installed on the 356 underside, powder coated black. This is the primary load path from the mount back into the original chassis.
+
+![Chassis bracket installed on 356 underside viewed from below on the lift](/assets/img/Work Experience/EVU/Motor Mount/9.jpg){: width="100%" }
 
 <br>
 
-#### There was still a lot that needed to be sorted out with this project by the time I left the company, however much of the design ground work is there, and I hope this car sees the road in the near future!
+#### Tube frame tacked in place on the car. Once tacked, the assembly comes back out for final welding before going back in for good.
+
+![Tube frame mount tacked in place on 356 underside](/assets/img/Work Experience/EVU/Motor Mount/10.jpg){: width="100%" }
+
+<br>
+
+#### Tesla drive unit installed in the mount under the car. The inverter is visible at the top with coolant connections capped off.
+
+![Tesla drive unit installed in mount under car, inverter visible with blue coolant caps](/assets/img/Work Experience/EVU/Motor Mount/11.jpg){: width="100%" }
+
+<br>
+
+#### The differential housing and axle stub locations relative to the mount, viewed from the rear of the car.
+
+![Tesla drive unit from rear showing differential housing and axle stubs](/assets/img/Work Experience/EVU/Motor Mount/12.jpg){: width="100%" }

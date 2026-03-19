@@ -1,7 +1,7 @@
 ---
 title: EV Porsche 356 | Battery Box Design & Assembly
 date: 2025-08-07 12:00:00 -0700
-categories: [Work Experience, EVU]
+categories: [Work Experience, EV Underground Inc.]
 tags: [solid_mechanics, thermal_analysis, mechatronics, systems_integration, project_management, manufacturing_processes, material_science, automotive_engineering, electronics_integration]
 
 image:

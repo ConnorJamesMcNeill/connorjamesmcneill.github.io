@@ -1,7 +1,7 @@
 ---
-title: TransCanada Turbines Drawings
+title: TransCanada Turbines Inc. | Drawings
 date: 2023-09-07 12:00:00 -0700
-catagories: [Drawings]
+categories: [Work Experience, TransCanada Turbines Inc.]
 tags: [mechanical_design, cad_modeling, finite_element_analysis, rapid_prototyping, 3d_printing, product_development, solid_mechanics, thermal_analysis, technical_drawings, automation, mechatronics, systems_integration, project_management, manufacturing_processes, material_science, design_optimization, failure_analysis, energy_systems, research_and_development, engineering_software, innovation, problem-solving, engineering_simulations]   #Lower Case
 
 image:
