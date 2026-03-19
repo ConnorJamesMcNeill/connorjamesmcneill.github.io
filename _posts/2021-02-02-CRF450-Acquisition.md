@@ -19,7 +19,7 @@ image:
 
 <br>
 
-#### Side by side. Similar condition externally -- the difference was entirely internal.
+#### Side by side. Similar condition externally; the difference was entirely internal.
 
 ![Both bikes together in the garage](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/2.jpg){: width="100%" }
 

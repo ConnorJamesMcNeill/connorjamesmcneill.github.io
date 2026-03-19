@@ -9,9 +9,9 @@ image:
   alt: Shattered Microsoft Surface Pro screen on a workbench
 ---
 
-### A week before my final capstone presentation, not long before final exams, I knocked my Surface Pro off a table. The screen shattered. Ordering a replacement through Microsoft wasn't an option on a student budget, so I found an aftermarket screen on Amazon, ordered it, and had the whole thing repaired the same weekend. The Surface Pro is not designed to be repaired -- the display assembly is held together with adhesive and the tolerances inside are tight -- but it came apart cleanly and went back together without any issues. The machine has been running fine ever since.
+### A week before my final capstone presentation, not long before final exams, I knocked my Surface Pro off a table. The screen shattered. Ordering a replacement through Microsoft wasn't an option on a student budget, so I found an aftermarket screen on Amazon, ordered it, and had the whole thing repaired the same weekend. The Surface Pro is not designed to be repaired; the display assembly is held together with adhesive and the tolerances inside are tight. It came apart cleanly and went back together without any issues. The machine has been running fine ever since.
 
-#### Aftermarket replacement screen from Amazon, still in packaging. The installation notes warn against rushing -- reasonable advice for an adhesive-held assembly.
+#### Aftermarket replacement screen from Amazon, still in packaging. The installation notes warn against rushing, reasonable advice for an adhesive-held assembly.
 
 ![Replacement screen in packaging with installation instructions](/assets/img/Personal-Misc/Electrical/Surface Pro Screen Replacement/20231118_184050.jpg){: width="100%" }
 
