@@ -30,7 +30,7 @@ image:
 
 #### This allowed us to order all the components from Send-Cut-Send and a local vendor, and complete final fabrication in house and at a low cost.
 
-![Picture5](/assets/img/Work Experience/EVU/Motor Mount/5.jpg){: width="100%" }
+![Picture5](/assets/img/Work Experience/EVU/Motor Mount/5.png){: width="100%" }
 
 <br>
 
