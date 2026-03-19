@@ -9,15 +9,9 @@ image:
   alt: Breadboard voltage buck circuit on a bench with power supply and PC fan
 ---
 
-### I designed an extraction fan system to be retrofitted onto the Prusa MK4S enclosures at the University of Calgary Maker Space, which runs a fleet of 90 Prusa printers. The fans I spec'd ran on 24V to match the Prusa power supply output. The fans that showed up ran on 12V. With a deadline in sight and no time to wait on a reorder, I put together a quick voltage buck circuit on a breadboard -- a couple of resistors, a diode, and a small regulator -- to step the 24V supply down to something the fans could actually use. It worked well enough to get through the immediate crunch. Not something I'd call a polished solution, but functional under the circumstances, and a good reminder that a basic understanding of electronics is worth having even when you're not an electrical engineer.
+### I designed an extraction fan system to be retrofitted onto the Prusa MK4S enclosures at the University of Calgary Maker Space, which runs a fleet of 90 Prusa printers. The fans I spec'd ran on 24V to match the Prusa power supply output. The fans that showed up ran on 12V. With a deadline in sight and no time to wait on a reorder, I put together a quick voltage buck circuit on a breadboard -- a 7812A three-terminal voltage regulator IC with a pair of capacitors (~133µF and ~100µF) -- to step the 24V supply down to 12V. It worked well enough to get through the immediate crunch. Not something I'd call a polished solution, but functional under the circumstances, and a good reminder that a basic understanding of electronics is worth having even when you're not an electrical engineer.
 
 {% include embed/youtube.html id="phELdGaIZRA" %}
-
-<br>
-
-#### Full bench setup. Power supply on the left feeding the buck circuit, fan on the bench confirming the output.
-
-![Bench setup with power supply, breadboard buck circuit, and PC fan](/assets/img/Personal-Misc/Electrical/Voltage Buck/20250515_153100.jpg){: width="100%" }
 
 <br>
 
