@@ -11,21 +11,21 @@ image:
 
 ### For the last two years of my degree at the Schulich School of Engineering, I worked as a Makerspace Adviser, 20 hours a week alongside my full course load. The role covered a lot of ground: day-to-day printer maintenance and repair, helping students with slicing, material selection, and print troubleshooting, and keeping the tools and workspace organized. When I graduated, they brought me on full-time.
 
-### The makerspace runs a significant number of machines across two locations. Inside the main space there is a fleet of 70 Prusa MK4s and 4 Prusa XLs, a wall of enclosed Bambu Lab units, a Thunder Laser CO2 cutter, and a couple of industrial additive machines. The entire Prusa fleet is networked via USB-C to a Nook and operated remotely from any PC in the space. My colleagues Lee and Mary, both fellow advisers, were central to keeping all of it running. Lee and I set up the enclosed Bambu printer wall inside the makerspace and the secondary hallway pod from the ground up. These photos were taken between semesters after a full clean and restructure. During the school year, it looks nothing like this.
+### The makerspace runs a significant number of machines across two locations. The fleet totals 70 Prusa MK4s and 4 Prusa XLs, split between the main space and a secondary hallway pod. The MK4s inside the main space sit in individual enclosures on custom shelving. The entire Prusa fleet is networked via USB-C to a Nook and operated remotely from any PC in the space. There is also a Thunder Laser CO2 cutter and a couple of industrial additive machines. My colleagues Lee and Mary, both fellow advisers, were central to keeping all of it running. Lee and I set up the enclosed printer wall inside the makerspace and the hallway pod from the ground up. These photos were taken between semesters after a full clean and restructure. During the school year, it looks nothing like this.
 
-#### The enclosed Bambu printer wall inside the makerspace. These were set up from scratch, shelving and all.
+#### The enclosed Prusa MK4 wall inside the makerspace. Each printer sits in its own individual enclosure on custom shelving, set up from scratch.
 
-![Wall of Bambu Lab enclosed 3D printers on custom shelving inside the Schulich Makerspace](/assets/img/Co-Curricular/Maker Space/20250122_105133.jpg){: width="100%" }
-
-<br>
-
-#### Close-up of the Bambu wall. Nine printers visible here, all running concurrently at peak times.
-
-![Close-up of Bambu Lab enclosed printers in a 3x3 grid with touchscreens](/assets/img/Co-Curricular/Maker Space/20250122_105314.jpg){: width="100%" }
+![Wall of enclosed Prusa MK4 printers on custom shelving inside the Schulich Makerspace](/assets/img/Co-Curricular/Maker Space/20250122_105133.jpg){: width="100%" }
 
 <br>
 
-#### The Prusa MK4 fleet on the blue tool cabinet benches, filament spools loaded and ready. All 70 of these were built up from MK3 frames by Lee and I — more on that in a separate post.
+#### Close-up of the enclosure wall. Nine printers visible here, all running concurrently at peak times.
+
+![Close-up of enclosed Prusa MK4 printers in a 3x3 grid with touchscreens](/assets/img/Co-Curricular/Maker Space/20250122_105314.jpg){: width="100%" }
+
+<br>
+
+#### The open Prusa MK4s on the blue tool cabinet benches, filament spools loaded and ready. All 70 MK4s were built up from MK3 frames by Lee and I, more on that in a separate post.
 
 ![Prusa MK4 3D printers on blue tool cabinet benches with filament spools](/assets/img/Co-Curricular/Maker Space/20250122_105326.jpg){: width="100%" }
 

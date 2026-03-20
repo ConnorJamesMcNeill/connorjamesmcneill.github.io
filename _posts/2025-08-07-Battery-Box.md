@@ -9,7 +9,7 @@ image:
   alt: Fusion 360 render of the Porsche 356 battery pack assembly
 ---
 
-### The 356 runs two custom lithium iron phosphate packs, a 6s in the frunk and an 8s in the rear trunk. I designed both enclosure assemblies in Fusion 360, along with the bus bars, terminal mounting adapters, module terminal covers, BMS mounting solution, cooling lines, module stack anchors, and an external junction box shared between both packs. On the build side, I handled everything from module sub-assembly through to fitment.
+### The 356 runs two custom lithium iron phosphate packs built from CALB 6S2P LiFePO4 modules, each rated at 2.2 kWh. Six modules in the frunk give 13.2 kWh, eight in the rear trunk give 17.6 kWh, for a combined 30.8 kWh. I designed both enclosure assemblies in Fusion 360, along with the bus bars, terminal mounting adapters, module terminal covers, BMS mounting solution, cooling lines, module stack anchors, and an external junction box shared between both packs. On the build side, I handled everything from module sub-assembly through to fitment.
 
 #### This render shows both packs close to their final state, modules stacked, chill plates seated, bus bars routed, BMS mounted, and cooling lines run.
 
@@ -59,7 +59,7 @@ image:
 
 <br>
 
-#### CALB modules staged ahead of assembly, eight for the rear pack and six for the front. At several kilos each, getting them into the enclosure without catching anything became a team lift every time.
+#### CALB 6S2P modules staged ahead of assembly, eight for the rear pack and six for the front. At several kilos each, getting them into the enclosure without catching anything became a team lift every time.
 
 ![CALB battery modules staged on lift table](/assets/img/Work Experience/EVU/Battery Box/PXL_20241102_030248176.MP.jpg){: width="100%" }
 
@@ -80,3 +80,25 @@ image:
 #### Each inter-cell connection uses a CALB terminal connector, the orange housing indexes onto the cell terminal and accepts the bus bar contact. Getting these seated correctly and torqued to spec across all cells is meticulous work.
 
 ![CALB cell terminal connector detail](/assets/img/Work Experience/EVU/Battery Box/20241118_193939.jpg){: width="100%" }
+
+<br>
+
+#### The module terminal cover, designed to protect the CALB cell terminals and bus bar connections inside the enclosure. The geometry seats over the terminal stack and locks into position.
+
+![Fusion 360 model of the battery module terminal cover, version 25](/assets/img/Work Experience/EVU/Misc/Screenshot 2025-03-03 125555.png){: width="100%" }
+
+<br>
+
+![Fusion 360 assembly of two battery module terminal covers seated together](/assets/img/Work Experience/EVU/Misc/Screenshot 2025-03-03 125622.png){: width="100%" }
+
+<br>
+
+#### Rear battery mounts for the 356. Steel brackets designed to locate and secure the 8s rear pack to the chassis, with the characteristic diamond geometry providing the mounting footprint needed to spread the load across the available structure.
+
+![Fusion 360 model of the Project 356 rear battery mounts, version 4](/assets/img/Work Experience/EVU/Misc/Screenshot 2025-03-03 130526.png){: width="100%" }
+
+<br>
+
+#### Heat exchanger mount for the Denali cooling unit. A long sheet metal bracket that positions the heat exchanger relative to the frunk packaging, sharing the space with the 6s pack and coolant ancillaries.
+
+![Fusion 360 model of the Denali heat exchanger mount, version 2](/assets/img/Work Experience/EVU/Misc/Screenshot 2025-03-03 130506.png){: width="100%" }
