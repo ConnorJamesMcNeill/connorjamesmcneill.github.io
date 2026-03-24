@@ -9,54 +9,68 @@ image:
   alt: Both 2007 Honda CRF450Rs in the garage on stands
 ---
 
-### I bought two 2007 Honda CRF450Rs for $4000 as a package deal, knowing one of them had a blown engine. The plan was simple enough: get both bikes sorted, sell the good one to fund rebuilding the bad one. What I hadn't fully accounted for was the state the failure bike came in. The previous owner had started a teardown and stopped, which meant a garbage bag of unsorted parts, an engine with no clear record of what had been pulled in what order, and a crankcase with a hole punched through it. Before any real diagnostic work could happen, the first job was just getting everything inventoried and organized.
+### The Purchase
 
-### The good bike needed attention too, but it was a known quantity. The failure bike was the one that would take time to understand. Getting the parts sorted and laid out was the necessary first step before any meaningful teardown or diagnosis could begin on either machine.
+I bought two 2007 Honda CRF450Rs for $4000 as a package deal, knowing one of them had a blown engine. The plan was simple enough: get both bikes sorted, sell the good one to fund rebuilding the bad one. What I hadn't fully accounted for was the state the failure bike came in. The previous owner had started a teardown and stopped, which meant a garbage bag of unsorted parts, an engine with no clear record of what had been pulled in what order, and a crankcase with a hole punched through it. Before any real diagnostic work could happen, the first job was just getting everything inventoried and organized.
 
-#### Both CRF450Rs together in the garage. Two bikes, one running, one not. The failure bike is on the left.
-
-![Both CRF450Rs in the garage on stands](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/1.jpg){: width="100%" }
+The good bike needed attention too, but it was a known quantity. The failure bike was the one that would take time to understand. Getting the parts sorted and laid out was the necessary first step before any meaningful teardown or diagnosis could begin on either machine.
 
 <br>
 
-#### Side by side. Similar condition externally; the difference was entirely internal.
+### The Bikes
 
 ![Both bikes together in the garage](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/2.jpg){: width="100%" }
 
+#### Side by side. Similar condition externally; the difference was entirely internal.
+
 <br>
 
-#### The failure bike's engine. The Boyesen water pump cover and magnesium case are visible. At this stage the root cause was still unknown.
+### Failure Bike Engine
 
 ![Engine close-up of failure bike showing Boyesen water pump cover and magnesium case](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/3.jpg){: width="100%" }
 
-<br>
-
-![Engine close-up of failure bike](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/4.jpg){: width="100%" }
+#### The failure bike's engine. The Boyesen water pump cover and magnesium case are visible. At this stage the root cause was still unknown.
 
 <br>
 
-![Engine close-up of failure bike](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/5.jpg){: width="100%" }
+![Engine right side view showing Honda magnesium case and Boyesen water pump cover](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/4.jpg){: width="100%" }
+
+#### Right side of the failure bike engine on the stand. The magnesium case and Boyesen water pump cover are visible from this angle.
 
 <br>
 
-#### The seller's parts spread across the workbench. Clutch assembly, gears, and chain with no documentation on what came from where.
+![Failure bike engine from the front on stand](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/5.jpg){: width="100%" }
+
+#### Engine from the front. The Boyesen water pump cover protrudes noticeably from the right of the case.
+
+<br>
+
+### Parts Inventory
 
 ![Workbench with disassembled parts laid out including clutch assembly, gears, and chain](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/6.jpg){: width="100%" }
 
-<br>
+#### The seller's parts spread across the workbench. Clutch assembly, gears, and chain with no documentation on what came from where.
 
-#### Hardware sorted and inventoried before anything went back together. Getting organized was the real first step.
+<br>
 
 ![Sorted bolts and hardware from the disassembled engine](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/7.jpg){: width="100%" }
 
-<br>
-
-![Sorted hardware and transmission internals](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/8.jpg){: width="100%" }
+#### Hardware sorted and inventoried before anything went back together. Getting organized was the real first step.
 
 <br>
 
-![Transmission internals and fasteners sorted on workbench](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/9.jpg){: width="100%" }
+![Fasteners, front sprocket, and snap rings sorted on bench](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/8.jpg){: width="100%" }
+
+#### Fasteners and drive components sorted. The front sprocket, snap rings, and bolts grouped by type.
 
 <br>
 
-![Fasteners and small parts sorted by type](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/10.jpg){: width="100%" }
+![Transmission gears and drivetrain components sorted on bench](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/9.jpg){: width="100%" }
+
+#### Transmission gears and drivetrain components separated and laid out. Getting the gearbox contents identified was part of understanding what the previous teardown had touched.
+
+<br>
+
+![More hardware sorted by type on bench](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/10.jpg){: width="100%" }
+
+#### More hardware sorted and accounted for. With everything inventoried, the actual scope of the job became clearer.
