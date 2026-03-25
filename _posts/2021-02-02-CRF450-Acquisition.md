@@ -35,13 +35,13 @@ The good bike needed attention too, but it was a known quantity. The failure bik
 
 ![Engine right side view showing Honda magnesium case and Boyesen water pump cover](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/4.jpg){: width="100%" }
 
-#### Right side of the failure bike engine on the stand. The magnesium case and Boyesen water pump cover are visible from this angle.
+#### Right side of the failure bike on the stand. The Boyesen water pump cover and magnesium case are both clearly visible.
 
 <br>
 
-![Failure bike engine from the front on stand](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/5.jpg){: width="100%" }
+![Failure bike on stand, lower front angle](/assets/img/Mechanical Experience/2007 Honda CRF450R_s (First ever dirt bikes)/2021-02-02/5.jpg){: width="100%" }
 
-#### Engine from the front. The Boyesen water pump cover protrudes noticeably from the right of the case.
+#### Lower front angle. The Boyesen water pump cover protrudes from the lower right of the engine.
 
 <br>
 
